@@ -475,6 +475,33 @@ priority = 127
 overlay_only = false
 
 [[structure]]
+name = "terraria.png"
+file = "terraria.png"
+disabled = false
+startx = -799
+starty = -944
+priority = 127
+overlay_only = false
+
+[[structure]]
+name = "lidl.png"
+file = "lidl.png"
+disabled = false
+startx = 2
+starty = -596
+priority = 127
+overlay_only = false
+
+[[structure]]
+name = "rapunzel.png"
+file = "rapunzel.png"
+disabled = false
+startx = -184
+starty = -610
+priority = 127
+overlay_only = false
+
+[[structure]]
 name = "a380"
 file = "a380.png"
 startx = -969
